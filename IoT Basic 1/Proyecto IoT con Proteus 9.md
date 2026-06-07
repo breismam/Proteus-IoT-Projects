@@ -15,7 +15,7 @@ En este repositorio encontrarás tutoriales breves sobre el uso de **Proteus 9**
 ## Tabla de contenidos
 
 - [Descripción](#descripción)
-- [Nuevo Proyecto](### Paso 1: Home)
+- [Paso 1: Home](#paso-1-home)
 - [Uso](#uso)
 - [Licencia](#licencia)
 
