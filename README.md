@@ -3,11 +3,11 @@
 Este repositorio contiene el manual de Proteus 9 creado por Breismam.
 
 ## 📖 Contenido
-- Drivers para interfaz gráfica en rpyectos IoT: Drivers
-- Manual, proyecto de prueba y librerias para usar el compilador de arduino en Proteus: Librerías Arduino.
-- Normas de uso del contenido de este repositorio: LICENSE.md
-- Archivo de contenido del repositorio: README.md
-- Proyecto IoT con distintas tarjetas: Proyectos IoT
+- **Drivers**: Drivers para interfaz gráfica en proyectos IoT
+- **Librerías Arduino**: Manual, proyecto de prueba y librerias para usar el compilador de arduino en Proteus
+- **LICENSE.md**: Normas de uso del contenido de este repositorio
+- **README.md**: Archivo de contenido del repositorio 
+- **Proyectos IoT**: Proyecto IoT con distintas tarjetas 
 
 ## 📌 Licencia
 Este manual se distribuye bajo la licencia 
