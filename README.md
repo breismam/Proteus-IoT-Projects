@@ -1,4 +1,4 @@
-# Manual de Proteus 9
+# Manual de Proyectos de Proteus 9
 
 Este repositorio contiene el manual de Proteus 9 creado por Breismam.
 
