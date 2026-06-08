@@ -8,7 +8,7 @@ Este repositorio contiene el manual de Proteus 9 creado por Breismam.
 - **LICENSE.md**: Normas de uso del contenido de este repositorio
 - **README.md**: Archivo de contenido del repositorio 
 - **Proyectos IoT**: Proyecto IoT con distintas tarjetas
-- 
+  
 En cada subcarpeta o carpetas de lso diferentes proyectos habrá un **pdf** con la explicación del proyecto.
 
 ## 📌 Licencia
