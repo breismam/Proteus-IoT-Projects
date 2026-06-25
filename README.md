@@ -11,7 +11,8 @@ Este repositorio contiene el manual de Proteus 9 creado por Breismam.
 ## 📖 Contenido
 
 - **Drivers**: Drivers para interfaz gráfica en proyectos IoT  
-- **Fourier/Audios**: Proyectos relacionados con análisis de señales y audio  
+- **Fourier/Audios**: Proyectos relacionados con análisis de señales y audio
+- **Guia Propilot + Gemini**: Documentación para habilitar IA de Gemini en Proteus 9
 - **Librerías Arduino**: Manual, proyecto de prueba y librerías para usar el compilador de Arduino en Proteus  
 - **Plantillas de trabajo**: Sección dedicada para la creación de templates o plantillas personalizadas  
 - **Proyectos IoT**: Proyecto IoT con distintas tarjetas
