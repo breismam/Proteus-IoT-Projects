@@ -1,7 +1,10 @@
 # Prácticas y manuales de uso de Proteus 9
 
 Imagen Para descargar App Proteus para control IoT (Solo Android)
-![Proteus App](./ProteusApp.png)
+
+<p align="center">
+  <img src="./ProteusApp.png" alt="Proteus App" width="300"/>
+</p>
 
 Este repositorio contiene el manual de Proteus 9 creado por Breismam.
 
