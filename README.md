@@ -17,7 +17,7 @@ Este repositorio contiene el manual de Proteus 9 creado por Breismam.
 - **Plantillas de trabajo**: Sección dedicada para la creación de templates o plantillas personalizadas  
 - **Proyectos IoT**: Proyecto IoT con distintas tarjetas
 - **Proyectos**: Ejemplos y prácticas usando diferentes funciones de proteus como el depurador de código y librerías de arduino
-- **STLINK V3 MINIE**: Configuración y uso del programador/debugger  
+- **STLINK V3 MINIE**: Proyecto de práctica de ARES para la configuración y uso del programador/debugger  
 - **LICENSE.md**: Normas de uso del contenido de este repositorio  
 - **README.md**: Archivo de descripción del repositorio  
 
