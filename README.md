@@ -9,12 +9,13 @@ Imagen Para descargar App Proteus para control IoT (Solo Android)
 Este repositorio contiene el manual de Proteus 9 creado por Breismam.
 
 ## 📖 Contenido
-- **Arduino Oled**: Ejemplos y prácticas usando pantallas OLED  
+
 - **Drivers**: Drivers para interfaz gráfica en proyectos IoT  
 - **Fourier/Audios**: Proyectos relacionados con análisis de señales y audio  
 - **Librerías Arduino**: Manual, proyecto de prueba y librerías para usar el compilador de Arduino en Proteus  
 - **Plantillas de trabajo**: Sección dedicada para la creación de templates o plantillas personalizadas  
-- **Proyectos IoT**: Proyecto IoT con distintas tarjetas  
+- **Proyectos IoT**: Proyecto IoT con distintas tarjetas
+- **Proyectos**: Ejemplos y prácticas usando diferentes funciones de proteus como el depurador de código y librerías de arduino
 - **STLINK V3 MINIE**: Configuración y uso del programador/debugger  
 - **LICENSE.md**: Normas de uso del contenido de este repositorio  
 - **README.md**: Archivo de descripción del repositorio  
