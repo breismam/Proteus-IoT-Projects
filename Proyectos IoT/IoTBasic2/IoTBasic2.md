@@ -44,10 +44,4 @@ El sistema realiza:
 
 ---
 
-### 🔄 Flujo del programa (Visual Designer)
 
-El sistema sigue la siguiente lógica:
-
-1. 📥 **Lectura analógica**
-  <img width="1365" height="717" alt="IoTBasic2-2" src="https://github.com/user-attachments/assets/ce76a2a3-7b85-421a-8d11-5f027d90318a" />
-<img width="1365" height="717" alt="IoTBasic2" src="https://github.com/user-attachments/assets/c04e1a13-bf43-4bcf-9a05-e495da7f1b11" />
