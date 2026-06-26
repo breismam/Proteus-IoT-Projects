@@ -1,32 +1,76 @@
-******************************************************************************
-* @file    readme.txt
-* @author  GPAM Application Team
-* @version 1.0
-* @date    28-March-2025
-* @brief   STLINK-V3MINIE 3D model
-******************************************************************************
-* COPYRIGHT(c) 2025 STMicroelectronics
-*
-* The Open Platform License Agreement (�Agreement�) is a binding legal contract
-* between you ("You") and STMicroelectronics International N.V. (�ST�), a
-* company incorporated under the laws of the Netherlands acting for the purpose
-* of this Agreement through its Swiss branch 39, Chemin du Champ des Filles,
-* 1228 Plan-les-Ouates, Geneva, Switzerland.
-*
-* By using the enclosed reference designs, schematics, PC board layouts, and
-* documentation, in hardcopy or CAD tool file format (collectively, the
-* �Reference Material�), You are agreeing to be bound by the terms and
-* conditions of this Agreement. Do not use the Reference Material until You
-* have read and agreed to this Agreement terms and conditions. The use of
-* the Reference Material automatically implies the acceptance of the Agreement
-* terms and conditions.
-*
-* The complete Open Platform License Agreement can be found on www.st.com/opla.
-******************************************************************************
+# 🔌 STLINK-V3MINIE Hardware Resources
 
-========================
-* 1.0 - 28-March-2025
-========================
-    + First official release.
-  
-******************* (C) COPYRIGHT 2025 STMicroelectronics *****END OF FILE
+Repositorio con archivos de referencia para el **STLINK-V3MINIE**, un programador/debugger compacto para dispositivos STM32.
+
+## 📂 Contenido del repositorio
+
+Este repositorio incluye los siguientes archivos útiles para diseño electrónico, integración mecánica y referencia técnica:
+
+### 🧱 Modelo 3D
+- **`MB1762-V3MINIE-B01.step`**  
+  Modelo 3D del STLINK-V3MINIE en formato STEP.  
+  Útil para:
+  - Integración mecánica en gabinetes o PCBs
+  - Visualización en CAD (SolidWorks, Fusion 360, FreeCAD, etc.)
+  - Verificación de espaciamiento físico
+
+---
+
+### 📐 Imagen de referencia (pads)
+- **`STLINK-V3MINIE-details-11.jpg`**  
+  Imagen con detalles del footprint, especialmente el ancho de los pads.  
+  Útil para:
+  - Diseñar el footprint en PCB
+  - Verificación visual rápida de dimensiones críticas
+  - Referencia durante el layout
+
+---
+
+### 📄 Documentación oficial
+- **`um2910-stlinkv3minie-debuggerprogrammer-...pdf`**  
+  Manual oficial del fabricante (User Manual).  
+  Contiene:
+  - Descripción general del dispositivo
+  - Pines y conexiones
+  - Especificaciones eléctricas
+  - Ejemplos de uso
+  - Recomendaciones de diseño
+
+---
+
+### 📝 Archivo adicional
+- **`readme.txt`**  
+  Archivo auxiliar incluido en el repositorio (puede contener notas originales o información preliminar).
+
+---
+
+## 🛠️ Uso recomendado
+
+Para integrar el STLINK-V3MINIE en un diseño:
+
+1. Revisar el PDF para comprender completamente el pinout y requisitos eléctricos.
+2. Usar la imagen JPG como guía inicial para el footprint del PCB.
+3. Validar con el modelo STEP para asegurar compatibilidad mecánica.
+4. Realizar una verificación cruzada entre todas las fuentes antes de fabricación.
+
+---
+
+## ⚠️ Notas importantes
+
+- Siempre validar dimensiones críticas con la documentación oficial.
+- El modelo 3D puede no incluir tolerancias de fabricación.
+- La imagen de pads es una referencia visual, no reemplaza las especificaciones del datasheet.
+
+---
+
+## 📌 Componente
+
+- **Nombre:** STLINK-V3MINIE  
+- **Fabricante:** STMicroelectronics  
+- **Tipo:** Debugger / Programmer para STM32
+
+---
+
+## 📬 Contribuciones
+
+Si deseas mejorar este repositorio (footprints, librerías CAD, etc.), las contribuciones son bienvenidas.
